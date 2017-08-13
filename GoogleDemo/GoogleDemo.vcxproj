@@ -146,9 +146,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="addTwoHugeNumbers.cpp" />
+    <ClCompile Include="isCryptSolution.cpp" />
+    <ClCompile Include="isPalindromeLinkdList.cpp" />
+    <ClCompile Include="mergeTwoLinkedLists.cpp" />
     <ClCompile Include="periodicSequence.cpp" />
+    <ClCompile Include="removeFromKList.cpp" />
     <ClCompile Include="rotateNinety.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Sudoku2.cpp" />
+    <ClCompile Include="uberBotChallenges.cpp" />
     <ClCompile Include="zigZag.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
